@@ -8,8 +8,8 @@
 📬 How to reach me : wagholikarsd@gmail.com <br>
 
 ### 🌱 Education  
-🔹 **Master of Science in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2022 - May 2024)  
-🔹 **Bachelor of Technology in Mechanical Engineering** from [**Vishwakarma Institute of Technology, Pune**](https://www.vit.edu/) (August 2016 - October 2020)   
+🔹 **MS in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2022 - May 2024)  
+🔹 **B. Tech in Mechanical Engineering** from [**Vishwakarma Institute of Technology, Pune**](https://www.vit.edu/) (August 2016 - October 2020)   
 
 ## 🔗 Connect with me:
 <p align="left">
