@@ -4,7 +4,7 @@
 ### Hello!👋
 
 🎓 I am a Robotics Graduate Student at WPI <br>
-👀 My interests are inclined towards Data Science, Computer Vision, Motion Planning <br>
+👀 My interests are inclined towards Perception, Computer Vision, Sensor Fusion and Motion Planning <br>
 📬 How to reach me : wagholikarsd@gmail.com, swagholikar@wpi.edu <br>
 
 ### 🌱 Education  
