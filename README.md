@@ -5,7 +5,7 @@
 
 🎓 I am a Robotics Graduate Student at WPI <br>
 👀 My interests are inclined towards Perception, Computer Vision, Sensor Fusion and Motion Planning <br>
-📬 How to reach me : wagholikarsd@gmail.com, swagholikar@wpi.edu <br>
+📬 How to reach me : swagholikar@wpi.edu <br>
 
 ### 🌱 Education  
 🔹 **MS in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2022 - May 2024)  
