@@ -4,7 +4,7 @@
 ### Hello!👋
 
 🎓 I am a Robotics Graduate Student at WPI <br>
-👀 My interests are inclined towards Perception, Computer Vision, Sensor Fusion and Motion Planning <br>
+👀 My interests are inclined towards Robotics, Computer Vision, Deep Learning, and Embedded Systems <br>
 📬 How to reach me : swagholikar@wpi.edu <br>
 
 ### 🌱 Education  
